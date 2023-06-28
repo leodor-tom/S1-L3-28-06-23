@@ -25,3 +25,25 @@ header {
   margin-top: 0;
   color: rgb(37, 150, 190);
 }
+
+main {
+  width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+p {
+  font-size: 0.85rem;
+}
+
+.focaccia {
+  width: 45rem;
+  border-radius: 25px;
+}
+
+figcaption {
+  font-weight: 200;
+  padding-top: 0.5rem;
+}
