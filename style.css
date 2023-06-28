@@ -4,9 +4,24 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 15vh;
+}
+
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 10rem;
+  width: 15rem;
+}
+
+.nav__style {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  border-top: 3px solid rgb(255, 156, 0);
+  background-color: antiquewhite;
+  margin-top: 0;
+  color: rgb(37, 150, 190);
 }
