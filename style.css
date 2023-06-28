@@ -63,3 +63,17 @@ figcaption {
 .related__recipes p {
   margin-top: 0;
 }
+
+#recipes {
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+hr {
+  color: aqua;
+}
+
+.h4__recipes {
+  margin-bottom: 10px;
+}
