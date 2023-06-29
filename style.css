@@ -45,6 +45,7 @@ p {
 .focaccia {
   width: 45rem;
   border-radius: 25px;
+  margin: auto;
 }
 
 figcaption {
